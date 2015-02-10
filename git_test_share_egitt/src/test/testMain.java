@@ -5,8 +5,8 @@ public class testMain {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		System.out.print("aaaaaaaaaadddiiiia zzzz ddddeeeeeee");
-		System.out.print("aaaaaaaaaaddd zzzz eeeeeeezzzzzzz oooo");
+		System.out.print("aaaaaaaaaadddiiiia zzzz ddddeeeeeee zzzz");
+	 
 		
 	}
 
